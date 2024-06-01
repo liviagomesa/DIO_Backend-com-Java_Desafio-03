@@ -1,14 +1,12 @@
-# DIO - Trilha Java Básico
+# DIO - Backend com Java - Solução para o desafio do módulo de controle de fluxo
 
-www.dio.me
+Esta é uma solução para o desafio do módulo de controle de fluxo do Bootcamp Backend com Java da [DIO](www.dio.me). 
 
 #### Autores
 
 - [Gleyson Sampaio](https://github.com/glysns)
 
-## Controle de Fluxo - Desafio
-
-Esta é a minha solução para o desafio do módulo de Controle de Fluxo. Instruções:
+## O desafio
 
 O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados, exemplo:
 
